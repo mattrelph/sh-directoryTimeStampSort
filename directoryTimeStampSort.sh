@@ -16,7 +16,7 @@
 # 2nd Argument=Destination Path
 # 3rd Argument=Option Flags (-xxxx)
 #
-# Example use (In Powershell):
+# Example use (In Bash Shell):
 # scriptName Source Destination -xxxx
 # 
 #
