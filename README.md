@@ -9,7 +9,7 @@ Some error checking. Should stop and report to shell on any error As always, use
 
 1st Argument = Source Path 2nd Argument = Destination Path 3rd Argument = Option Flags (-xxxx)
 
-Example use (In Powershell):
+Example use (In Bash):
 
 scriptName Source Destination -xxxx
 
